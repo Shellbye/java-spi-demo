@@ -11,7 +11,7 @@
 
     <modules>
         <module>spi-service</module>
-        <module>web-demo</module>
+        <module>spi-app</module>
         <module>spi-service-provider-01</module>
         <module>spi-service-provider-02</module>
     </modules>
